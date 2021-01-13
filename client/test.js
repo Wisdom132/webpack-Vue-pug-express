@@ -1,5 +1,4 @@
 import Vue from "vue";
-console.log('retfyguhij');
 let app = new Vue({
     el: '#home',
     data: {
